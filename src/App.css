@@ -23,6 +23,13 @@
   color: #61dafb;
 }
 
+.btn-success {
+  background-color: #7c4dff !important;
+  font-weight: bold !important;
+  color: white !important;
+  border:0px solid transparent !important; 
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
