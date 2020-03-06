@@ -10,7 +10,7 @@ Use the package manager npm to install Node_Modules dependencies
 npm install
 ```
 
-then Use the package manager npm start to run your project
+then Use the  npm start to run your project
 ```bash
 npm start
 ```
